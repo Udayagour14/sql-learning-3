@@ -1,4 +1,3 @@
-# sql-learning-3
 # SQL-Revision
 ### **🚀 Day 3 of my 15-day SQL revision journey with MySQL! 🎉 Even with my experience in SQL, I'm excited to revisit the basics and showcase my skills to potential recruiters. Today, I set up my environment and use where clause and order by for filter and sorting. I have selected data from tables which was created from sql-learning-day 1. This is just the beginning. Stay tuned for more SQL practice and insights over the 15 days!** ###
 ### Filtering Data with WHERE Clause and Sorting with ORDER BY Clause in MySQL
